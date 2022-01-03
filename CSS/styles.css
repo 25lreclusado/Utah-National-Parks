@@ -1,0 +1,26 @@
+body {
+  background-color: #E9C891;
+}
+h1 {
+  color: #D06224;
+  font-family: Georgia;
+}
+h3 {
+  color: #AE431E;
+  font-family: Verdana;
+}
+
+hr {
+  border-style: none;
+  border-color: #8A8635;
+  border-top-style: solid;
+  height: 50;
+  width: 1500px;
+  border-width: 7px
+}
+p {
+  font-family: Courier New;
+}
+li {
+  font-family: Tahoma;
+}
